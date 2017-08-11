@@ -1,0 +1,32 @@
+[
+    {
+          "name":  "Srilekha",
+          "pin":"1210716107",
+          "branch":"IT",
+          "batch":"2016-2020"
+    },
+    { 
+          "name":  "Pujitha",
+          "pin":"1210715149",
+          "branch":"IT",
+          "batch":"2015-2019"
+    },
+    { 
+          "name":  "Manzoor",
+          "pin":"1210716252",
+          "branch":"IT",
+          "batch":"2016-2020"
+    },
+     { 
+          "name":  "Mustali",
+          "pin":"1210716125",
+          "branch":"IT",
+          "batch":"2016-2020"
+    },
+     { 
+          "name":  "Charishma",
+          "pin":"1210716149",
+          "branch":"IT",
+          "batch":"2016-2020"
+    }
+]
